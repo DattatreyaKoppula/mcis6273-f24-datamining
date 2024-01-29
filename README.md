@@ -3,7 +3,7 @@
 Zotero Credentials
 
 Username - Dattatreya_Koppula
-Mail id - DKoppula3000@muleriders.saumag.edu
+
 
 
 Random Sentences-
