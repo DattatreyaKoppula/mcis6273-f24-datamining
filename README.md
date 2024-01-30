@@ -4,6 +4,8 @@ Zotero Credentials
 
 Username - Dattatreya_Koppula
 
+Github repository link - https://github.com/DattatreyaKoppula/mcis6273-f24-datamining.git
+
 
 
 Random Sentences-
